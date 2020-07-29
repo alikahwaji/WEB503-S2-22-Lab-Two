@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to lab 1 👋</h1>
+<h1 align="center">Welcome to lab 2 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/alikahwaji/Lab-template#readme" target="_blank">
@@ -49,12 +49,11 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 ## :page_facing_up: Lab 1 Description
 
-:arrow_right: `Write a 500 words introduction about GitHub Inc. company, what was the motivation behind starting a version control system? And what are the latest
-features in GitHub?`
+:arrow_right: `Setup p5.js project for this repo and name the project first_p_five.`
 
-:arrow_right: `What is Git? list at least 10 Git commands and explain each one of them.` 
+:arrow_right: `Follow the class activity and use this repo to write the code` 
 
-:arrow_right: `Create for each Git command you expalin a diagram that visulaize it's functionality`
+:arrow_right: `Select 3 examples of p5.js using p5.js documents in moodle`
 
 :arrow_right: `You must use NMIT APA 7th ed. Referencing Guide`
 
