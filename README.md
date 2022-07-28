@@ -49,7 +49,7 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 ## :page_facing_up: Lab Two Tasks 
 
-:arrow_right: [01_background](./01_background/sketch.js)
+:arrow_right: [01_background](https://github.com/alikahwaji/WEB503-Lab-Two/blob/bac5b02bb19bda897d7e9c92586ed059c404efa1/01_background%20/sketch.js)
 
 - What are the parameters (aka inputs) of `createCanvas()`?
 - Change the canvas size to the full width and full height of your screen, using the variables [here](https://p5js.org/reference/#/p5/displayHeight) or [here](https://p5js.org/reference/#/p5/windowHeight).
