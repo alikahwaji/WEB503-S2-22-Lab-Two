@@ -56,7 +56,7 @@ Check the :white_check_mark: Todos & :x: Not Todos
 - Why is there a quick flash of green every time you load the page? Get rid of the flash. (Hint: it has to do with setup vs draw).
 - Change the background of this canvas to bright pink. You may want to use [this reference](https://p5js.org/reference/#/p5/background).
 
-:arrow_right: [02_shapes](./02_shapes/sketch.js)
+:arrow_right: [02_shapes](https://github.com/alikahwaji/WEB503-Lab-Two/blob/bac5b02bb19bda897d7e9c92586ed059c404efa1/02_shapes%20/sketch.js)
 
 - What are the inputs for `rect()` and `ellipse()`? You may want to check out [this reference](https://p5js.org/reference/#/p5/ellipse).
 - Change the inputs for either the rectangle or the ellipse so that they are not overlapping on the screen.
