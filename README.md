@@ -47,14 +47,26 @@ Check the :white_check_mark: Todos & :x: Not Todos
 |:four:|Do NOT Share the lab repo :closed_lock_with_key:|:heavy_multiplication_x:|
 |:five:|Do NOT re-use this repo for other coding activities :recycle:|:heavy_multiplication_x:|
 
-## :page_facing_up: Lab 1 Description
+## :page_facing_up: Lab Two Tasks 
 
-:arrow_right: `Setup p5.js project for this repo and name the project first_p_five.`
+:arrow_right: `[01_background](./01_background/sketch.js)
 
-:arrow_right: `Follow the class activity and use this repo to write the code` 
+- What are the parameters (aka inputs) of `createCanvas()`?
+- Change the canvas size to the full width and full height of your screen, using the variables [here](https://p5js.org/reference/#/p5/displayHeight) or [here](https://p5js.org/reference/#/p5/windowHeight).
+- Why is there a quick flash of green every time you load the page? Get rid of the flash. (Hint: it has to do with setup vs draw).
+- Change the background of this canvas to bright pink. You may want to use [this reference](https://p5js.org/reference/#/p5/background).`
 
-:arrow_right: `Select 3 examples of p5.js using p5.js documents in moodle`
+:arrow_right: `[02_shapes](./02_shapes/sketch.js)
 
+- What are the inputs for `rect()` and `ellipse()`? You may want to check out [this reference](https://p5js.org/reference/#/p5/ellipse).
+- Change the inputs for either the rectangle or the ellipse so that they are not overlapping on the screen.
+- Change the color of the stroke.
+- Change the stroke to `noStroke()`
+- Add the stroke back in. Change the thickness of the stroke with [strokeWeight](https://p5js.org/reference/#/p5/strokeWeight).
+- Change the color of the fill.
+- Change the fill to `noFill()`
+- Create at least one more type of shape by going to the "Shapes" section of the reference [here](https://p5js.org/reference/).
+`
 :arrow_right: `You must use NMIT APA 7th ed. Referencing Guide`
 
 
