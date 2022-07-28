@@ -49,14 +49,14 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 ## :page_facing_up: Lab Two Tasks 
 
-:arrow_right: `[01_background](./01_background/sketch.js)
+:arrow_right: [01_background](./01_background/sketch.js)
 
 - What are the parameters (aka inputs) of `createCanvas()`?
 - Change the canvas size to the full width and full height of your screen, using the variables [here](https://p5js.org/reference/#/p5/displayHeight) or [here](https://p5js.org/reference/#/p5/windowHeight).
 - Why is there a quick flash of green every time you load the page? Get rid of the flash. (Hint: it has to do with setup vs draw).
-- Change the background of this canvas to bright pink. You may want to use [this reference](https://p5js.org/reference/#/p5/background).`
+- Change the background of this canvas to bright pink. You may want to use [this reference](https://p5js.org/reference/#/p5/background).
 
-:arrow_right: `[02_shapes](./02_shapes/sketch.js)
+:arrow_right: [02_shapes](./02_shapes/sketch.js)
 
 - What are the inputs for `rect()` and `ellipse()`? You may want to check out [this reference](https://p5js.org/reference/#/p5/ellipse).
 - Change the inputs for either the rectangle or the ellipse so that they are not overlapping on the screen.
@@ -66,7 +66,8 @@ Check the :white_check_mark: Todos & :x: Not Todos
 - Change the color of the fill.
 - Change the fill to `noFill()`
 - Create at least one more type of shape by going to the "Shapes" section of the reference [here](https://p5js.org/reference/).
-`
+
+
 :arrow_right: `You must use NMIT APA 7th ed. Referencing Guide`
 
 
