@@ -20,7 +20,7 @@
 
 👤 **Ali Kahwaji**
 
-* :school: [MSteams](https://teams.microsoft.com/l/team/19%3a1b496be02a4249c2acd41097f307dfcf%40thread.tacv2/conversations?groupId=3b29c958-d7ed-4381-9f29-d55afcdc54b0&tenantId=d270022d-f990-4b41-9ce0-468f043eef4f)
+* :school: [MSteams](https://teams.microsoft.com/l/team/19%3adVvr3C_CUx-H8sQes3zfI1ZndBO5EHIag7dnkB-pKY01%40thread.tacv2/conversations?groupId=52cbce00-7f1d-4fa2-b2dc-7dbe7dd38429&tenantId=d270022d-f990-4b41-9ce0-468f043eef4f)
 * :e-mail: [Email](ali.kahwaji@nmit.ac.nz)
 
 
@@ -49,6 +49,10 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 ## :page_facing_up: Lab Two Tasks 
 
+:arrow_right: Your lab work is to go through two tasks of the following code snippets. Each code snippet will explore an aspect of p5.js.
+
+HINT: You can find all of the answers to the questions below at [p5.js.org](https://p5js.org). If you get stuck, message on MS teams!
+
 :arrow_right: [01_background](https://github.com/alikahwaji/WEB503-Lab-Two/blob/bac5b02bb19bda897d7e9c92586ed059c404efa1/01_background%20/sketch.js)
 
 - What are the parameters (aka inputs) of `createCanvas()`?
@@ -68,7 +72,7 @@ Check the :white_check_mark: Todos & :x: Not Todos
 - Create at least one more type of shape by going to the "Shapes" section of the reference [here](https://p5js.org/reference/).
 
 
-:arrow_right: `You must use NMIT APA 7th ed. Referencing Guide`
+
 
 
 
